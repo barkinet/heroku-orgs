@@ -24,7 +24,7 @@
   "dependencies": {
     "co": "4.6.0",
     "columnify": "1.5.4",
-    "heroku-cli-util": "5.7.4",
+    "heroku-cli-util": "5.8.0",
     "lodash": "4.0.1"
   },
   "devDependencies": {
