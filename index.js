@@ -8,4 +8,6 @@ exports.commands = [
   require('./commands/access/remove'),
   require('./commands/access/update'),
   require('./commands/members'),
+  require('./commands/members/add').add,
+  require('./commands/members/add').set,
 ];
