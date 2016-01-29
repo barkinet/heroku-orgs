@@ -10,4 +10,5 @@ exports.commands = [
   require('./commands/members'),
   require('./commands/members/add').add,
   require('./commands/members/add').set,
+  require('./commands/members/remove'),
 ];
